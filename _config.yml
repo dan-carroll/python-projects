@@ -13,8 +13,16 @@ canonical_url: "https://dan-carroll.github.io"
 baseurl: "python-projects" # the subpath of your site, e.g. /blog
 url: "https://dan-carroll.github.io" # the base hostname & protocol for your site
 
+author:
+  name: Dan Carroll
+  email: dcarroll809@gmail.com
+
 # Markdown settings
-markdown: kramdown
+#markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+    line_numbers: false
 
 # Sass settings
 sass:
@@ -22,14 +30,37 @@ sass:
   sass_dir: assets/sass
   style: :compressed
 
-# Build settings
+# Google Analytics Tracking (optional)
+ga_tracking:
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+permalink: pretty
 exclude:
-  - package.json
-  - README.md
-  - CNAME
-  - assets/sass
+  [
+    "node_modules/",
+    "*.gemspec",
+    "*.gem",
+    "Gemfile",
+    "Gemfile.lock",
+    "package.json",
+    "package-lock.json",
+    "script/",
+    "LICENSE.txt",
+    "lib/",
+    "bin/",
+    "README.md",
+    "Rakefile",
+    "graphic_templates",
+    "*.py",
+    "*.sh",
+    "*.yml",
+    "package.json",
+    "CNAME",
+    "assets/sass"
+  ]
 
 # Plugin settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
