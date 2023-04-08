@@ -1,3 +1,10 @@
+# Jekyll related files to be ignored
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+node_modules
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
