@@ -31,7 +31,7 @@ Surprisingly, many programming books are available in some formats for free onli
 
 - ### [web2py - Complete Reference Manual, 6th Edition](http://www.web2py.com/book)
 
-written by Massimo Di Pierro in English
+    written by Massimo Di Pierro in English
 
 ## Projects from Tutorials
 Planned listing of completed (or works in progress) from tutorials.
