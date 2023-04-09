@@ -13,23 +13,23 @@ Planned listing of projects completed (and to be completed) from books.
 
 Surprisingly, many programming books are available in some formats for free online.
 
-### + Python for Everybody
+- ### Python for Everybody
 
-### + The Big Book of Small Python Projects
+- ### The Big Book of Small Python Projects
 
-### + Python Programming Exercises, Gently Explained
+- ### Python Programming Exercises, Gently Explained
 
-### + The Recursive Book of Recursion
+- ### The Recursive Book of Recursion
 
-### + Automate the Boring Stuff with Python
+- ### Automate the Boring Stuff with Python
 
-### + Making Games with Python & Pygame
+- ### Making Games with Python & Pygame
 
-### + Beyond the Basic Stuff with Python
+- ### Beyond the Basic Stuff with Python
 
-### + Invent Your Own Computer Games with Python, 4th Edition
+- ### Invent Your Own Computer Games with Python, 4th Edition
 
-### + [web2py - Complete Reference Manual, 6th Edition](http://www.web2py.com/book)
+- ### [web2py - Complete Reference Manual, 6th Edition](http://www.web2py.com/book)
 
 written by Massimo Di Pierro in English
 
