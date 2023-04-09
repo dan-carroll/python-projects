@@ -13,21 +13,21 @@ Planned listing of projects completed (and to be completed) from books.
 
 Surprisingly, many programming books are available in some formats for free online.
 
-- ### Python for Everybody
+- ### [Python for Everybody](https://books.trinket.io/pfe/)
 
-- ### The Big Book of Small Python Projects
+- ### [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
-- ### Python Programming Exercises, Gently Explained
+- ### [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/)
 
-- ### The Recursive Book of Recursion
+- ### [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
 
-- ### Automate the Boring Stuff with Python
+- ### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-- ### Making Games with Python & Pygame
+- ### [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
 
-- ### Beyond the Basic Stuff with Python
+- ### [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
 
-- ### Invent Your Own Computer Games with Python, 4th Edition
+- ### [Invent Your Own Computer Games with Python, 4th Edition](https://inventwithpython.com/invent4thed/)
 
 - ### [web2py - Complete Reference Manual, 6th Edition](http://www.web2py.com/book)
 
