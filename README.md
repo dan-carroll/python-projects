@@ -13,7 +13,8 @@ Planned listing of projects completed (and to be completed) from books.
 
 Surprisingly, many programming books are available in some formats for free online.
 
-- ### [Python for Everybody](https://books.trinket.io/pfe/)
+- ### [Python for Everybody](https://books.trinket.io/pfe/)by Charles Severance
+  - [Professor Charles Severance on Github](https://github.com/csev) where he has courseware and programming code for many of his classes and books.
 
 - ### [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
   - [The Big Book of Small Python Projects (source code)](https://github.com/asweigart/the-big-book-of-small-python-projects) by Al Sweigart on Github
