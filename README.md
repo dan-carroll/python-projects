@@ -16,7 +16,7 @@ Surprisingly, many programming books are available in some formats for free onli
 - ### [Python for Everybody](https://books.trinket.io/pfe/)
 
 - ### [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-- - [The Big Book of Small Python Projects (source code)](https://github.com/asweigart/the-big-book-of-small-python-projects) by Al Sweigart on Github
+  - [The Big Book of Small Python Projects (source code)](https://github.com/asweigart/the-big-book-of-small-python-projects) by Al Sweigart on Github
 
 - ### [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/)
 
