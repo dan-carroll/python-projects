@@ -1,6 +1,6 @@
 # [Python Projects](https://github.com/dan-carroll/python-projects)
 
-Python projects from books, tutorials, and my own imagination.
+Python projects from books, tutorials, and my own creativity.
 
 ## Personal Projects
 

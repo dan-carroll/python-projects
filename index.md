@@ -1,13 +1,10 @@
 ---
 layout: default
+page: index
 ---
 
-# Python Projects
+{% include head.html %}
 
-- ## Personal Projects
+{% include_relative README.md %}
 
-- ## Projects from Books
-
-  - ### Python For Everybody
-
-- ## Projects from Tutorials
+{% include footer.html %}
