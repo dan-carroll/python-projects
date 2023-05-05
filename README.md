@@ -1,12 +1,12 @@
-# [python-projects](https://github.com/dan-carroll/python-projects)
+# [Python Projects](https://github.com/dan-carroll/python-projects)
 
 Python projects from books, tutorials, and my own imagination.
 
 ## Personal Projects
 
-First off, I have a website hosted on [Pythonanywhere.com](https://www.pythonanywhere.com/) that is purely Python. Operating under Python version 3.6 running on [Bottle](https://bottlepy.org/docs/dev/), the Python web framework. A micro framework such as this allows for finer control of the web interface. It is a very interesting way to setup a web site.
+- ### [Dan Carroll on Pythonanywhere](https://dancarroll.pythonanywhere.com/)
 
-[Dan Carroll on Pythonanywhere](https://dancarroll.pythonanywhere.com/)
+First off, I have a website hosted on [Pythonanywhere.com](https://www.pythonanywhere.com/) that is purely Python. Operating under Python version 3.6 running on [Bottle](https://bottlepy.org/docs/dev/), the Python web framework. A micro framework such as this allows for finer control of the web interface. It is a very interesting way to setup a web site.
 
 ## Projects from Books
 

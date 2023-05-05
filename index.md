@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<h1>Python Projects</h1>
+# Python Projects
 
-<h2>Personal Projects</h2>
+- ## Personal Projects
 
-<h2>Projects from Books</h2>
+- ## Projects from Books
 
-<h3>Python For Everybody</h3>
+  - ### Python For Everybody
 
-<h2>Projects from Tutorials</h2>
+- ## Projects from Tutorials
