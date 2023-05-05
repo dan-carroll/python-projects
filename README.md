@@ -4,12 +4,13 @@ Python projects from books, tutorials, and my own imagination.
 
 ## Personal Projects
 
-Planned listing of my personal Python projects.
+First off, I have a website hosted on [Pythonanywhere.com](https://www.pythonanywhere.com/) that is purely Python. Operating under Python version 3.6 running on [Bottle](https://bottlepy.org/docs/dev/), the Python web framework. A micro framework such as this allows for finer control of the web interface. It is a very interesting way to setup a web site.
+
+[Dan Carroll on Pythonanywhere](https://www.pythonanywhere.com/user/DanCarroll/)
 
 ## Projects from Books
 
 Planned listing of projects completed (and to be completed) from books.
-
 
 Surprisingly, many programming books are available in some formats for free online.
 
